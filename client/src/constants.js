@@ -1,6 +1,5 @@
 export const BACKEND_URL = "https://queen-backend.onrender.com";
 
-
 export const FACILITIES = [
   {
     id: '1',
