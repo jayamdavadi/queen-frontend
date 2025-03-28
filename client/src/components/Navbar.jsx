@@ -19,7 +19,7 @@ export const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex">
             <Link to="/" className="flex-shrink-0 flex items-center">
-              <span className="text-xl font-bold text-gray-800">Retreat Center</span>
+              <span className="text-xl font-bold text-gray-800">Queen of Apostles</span>
             </Link>
           </div>
 
